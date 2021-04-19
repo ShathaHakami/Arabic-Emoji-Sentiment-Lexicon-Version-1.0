@@ -2,7 +2,7 @@
 The first Arabic emoji sentiment lexicon for Natural Language Processing (NLP) or any other related textual analysis tasks.
 
 
-# To cite this Lexicon
+# To cite this Lexicon (BibTex)
 @inproceedings{hakami-etal-2021-arabic,
     title = "{A}rabic Emoji Sentiment Lexicon ({A}rab-{ESL}): A Comparison between {A}rabic and {E}uropean Emoji Sentiment Lexicons",
     author = "Hakami, Shatha Ali A.  and
