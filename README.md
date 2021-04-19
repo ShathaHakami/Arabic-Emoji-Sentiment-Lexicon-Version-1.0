@@ -7,7 +7,7 @@ This is an Arabic sentiment lexicon of 1034 emoji, extracted from 144,196 tweets
 ## Paper
 https://www.aclweb.org/anthology/2021.wanlp-1.7/
 
-## To cite this Lexicon (BibTex Format)
+## To Cite This Lexicon (BibTex Format)
 @inproceedings{hakami-etal-2021-arabic,
     title = "{A}rabic Emoji Sentiment Lexicon ({A}rab-{ESL}): A Comparison between {A}rabic and {E}uropean Emoji Sentiment Lexicons",
     author = "Hakami, Shatha Ali A.  and
