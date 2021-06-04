@@ -2,7 +2,7 @@
 The first Arabic emoji sentiment lexicon for Natural Language Processing (NLP) or any other related analysis tasks.
 
 ## Lexicon Description
-This is an Arabic sentiment lexicon of 1034 emoji, extracted from 144,196 tweets in existing Arabic datasets.
+This is a context-sensitive Arabic sentiment lexicon of 1034 emoji, extracted from 144,196 tweets in existing Arabic datasets.
 
 ## Paper
 https://www.aclweb.org/anthology/2021.wanlp-1.7/
